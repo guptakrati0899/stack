@@ -29,11 +29,9 @@ public class MyStack {
 		return MyLinkedList.pop();
 		
 	}
-	public Object[] empty() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-
+	
 }
+
+
+
 
